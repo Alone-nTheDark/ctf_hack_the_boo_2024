@@ -1,0 +1,4 @@
+read secret from html - halloween-secret
+create token with admin name
+open /tickets
+
